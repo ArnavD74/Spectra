@@ -105,3 +105,4 @@ Thumbs.db
 auth.json
 
 *.ini
+config.json
